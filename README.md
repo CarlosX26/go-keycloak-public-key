@@ -1,0 +1,1 @@
+# go-keycloak-public-key
